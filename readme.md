@@ -39,7 +39,7 @@ to api
 
 sqlcmd -S <ServerIP> -U <Username> -P <Password>
   
-output   = "../generated/prisma" If you have ยพรหทฟ problems, remove this from schema.prisma
+output   = "../generated/prisma" If you have prisma problems, remove this from schema.prisma
 npx prisma migrate reset --force
 npx prisma migrate dev --name init
 
