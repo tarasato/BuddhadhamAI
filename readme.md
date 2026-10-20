@@ -1,3 +1,7 @@
+This repository for Backend AI Compute <br>
+For API please visit [BuddhadhamAI_API](https://github.com/tarasato/BuddhadhamAI_API) <br>
+For Frontend(Web App/Mobile App) please visit [BuddhadhamAI_EXPO](https://github.com/tarasato/BuddhadhamAI_EXPO)
+
 .env
 ```
 DATABASE_URL = "sqlserver://127.0.0.1:1433;initial catalog=DB_NAME;user=Username;password=P@assw0rd;trustServerCertificate=true;charset=utf8mb4"
