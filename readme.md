@@ -1,5 +1,5 @@
 This repository for Backend AI Compute <br>
-For API please visit [BuddhadhamAI_API](https://github.com/tarasato/BuddhadhamAI_API) <br>
+For Backend API please visit [BuddhadhamAI_API](https://github.com/tarasato/BuddhadhamAI_API) <br>
 For Frontend(Web App/Mobile App) please visit [BuddhadhamAI_EXPO](https://github.com/tarasato/BuddhadhamAI_EXPO)
 
 .env
